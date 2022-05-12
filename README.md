@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Miguel Murillo.
+- 👋 Hi, I’m Miguel Murillo, and I'm a Software Engineer.
 - 👀 I’m interested in improve my software develop skills.
 - 🌱 I’m currently learning Python and Django.
 - 📫 My e-mail is miguel.murillo.g.17@gmail.com
